@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Membro
+comment1.params=
+comment1.target=Membro()
+comment2.params=
+comment2.target=java.lang.String\ geraCabecalho()
+comment2.text=funcoes\ internas\ ****
+comment3.params=figs\ source
+comment3.target=java.lang.String\ geraStrFigs(int[],\ java.lang.String)
+comment4.params=name
+comment4.target=void\ setNome(java.lang.String)
+comment4.text=funcoes\ acess\u00EDveis\ a\ outras\ classes\ ****
+comment5.params=phone
+comment5.target=void\ setTelefone(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getStrMembro()
+comment7.params=value_fig
+comment7.target=void\ addFigs(int)
+comment8.params=index_fig1\ index_fig2
+comment8.target=void\ troca(int,\ int)
+numComments=9

@@ -1,0 +1,41 @@
+Membro_01
+Jose Carlos da Silva
+9999-7788
+Figurinhas
+12
+15
+17
+25
+15
+17
+15
+17
+17
+23
+24
+Membro_02
+Claudio Tavares
+9922-2998
+Figurinhas
+19
+25
+27
+25
+27
+18
+36
+124
+19
+Membro_03
+Carlos dos Santos
+9876-5562
+Figurinhas
+27
+36
+39
+36
+110
+87
+13
+28
+15

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ListaMembros
+comment1.params=
+comment1.target=ListaMembros()
+comment2.params=inicioref
+comment2.target=void\ inserctionSort(Nodo)
+comment2.text=funcoes\ internas\ ****
+comment3.params=novo
+comment3.target=void\ insercaoOrdenada(Nodo)
+comment4.params=val
+comment4.target=void\ push(Membro)
+comment5.params=ini
+comment5.target=void\ trader(Nodo)
+comment6.params=name
+comment6.target=Nodo\ procuraNome(java.lang.String)
+comment6.text=funcoes\ acess\u00EDveis\ \u00E0s\ outras\ classes\ ****
+comment7.params=
+comment7.target=void\ exibeGrupo()
+comment8.params=newmember
+comment8.target=void\ insereMembro(Membro)
+comment9.params=
+comment9.target=void\ realizaTrocas()
+numComments=10
